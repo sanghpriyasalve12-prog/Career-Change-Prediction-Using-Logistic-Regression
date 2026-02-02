@@ -1,4 +1,4 @@
-# Career-Change-Prediction-Using-Logistic-Regression
+# Career_Change_Prediction_Using_Logistic_Regression
 This project analyzes career-related factors influencing an individual's likelihood of changing occupation. Using data cleaning, visualization, and logistic regression modeling, the study identifies key drivers behind career change decisions.
 # Overview
 This project demonstrates a complete data analytics workflow — from raw data to business insights. It covers data loading, exploratory data analysis (EDA), data cleaning and Final reporting.
